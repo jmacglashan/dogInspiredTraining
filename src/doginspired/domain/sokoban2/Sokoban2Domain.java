@@ -13,6 +13,9 @@ import burlap.oomdp.visualizer.Visualizer;
 
 public class Sokoban2Domain implements DomainGenerator {
 
+
+	public static final String					ROBOTIMAGESPATH = "data/robotImages";
+
 	public static final String					ATTX = "x";
 	public static final String					ATTY = "y";
 	public static final String					ATTDIR = "direction"; //optionally added attribute to include the agent's direction
@@ -772,7 +775,7 @@ public class Sokoban2Domain implements DomainGenerator {
 		s.addObject(b2);
 		setBlock(s, 1, 3, 2, "moon", "red");*/
 		
-		Visualizer v = Sokoban2Visualizer.getVisualizer("oomdpResearch/robotImages");
+		Visualizer v = Sokoban2Visualizer.getVisualizer(ROBOTIMAGESPATH);
 		VisualExplorer exp = new VisualExplorer(domain, v, s);
 		
 		exp.addKeyAction("w", ACTIONNORTH);
