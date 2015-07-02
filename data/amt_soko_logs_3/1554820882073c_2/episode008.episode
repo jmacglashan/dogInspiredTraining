@@ -1,0 +1,163 @@
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '4'}
+- {direction: south, name: agent0, class: agent, y: '1', x: '4'}
+
+#ES#
+west
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '4'}
+- {direction: west, name: agent0, class: agent, y: '1', x: '3'}
+
+#ES#
+north
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '4'}
+- {direction: north, name: agent0, class: agent, y: '2', x: '3'}
+
+#ES#
+east
+1.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '5'}
+- {direction: east, name: agent0, class: agent, y: '2', x: '4'}
+
+#ES#
+east
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '6'}
+- {direction: east, name: agent0, class: agent, y: '2', x: '5'}
+
+#ES#
+south
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '6'}
+- {direction: south, name: agent0, class: agent, y: '1', x: '5'}
+
+#ES#
+east
+1.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '2', x: '6'}
+- {direction: east, name: agent0, class: agent, y: '1', x: '6'}
+
+#ES#
+north
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '3', x: '6'}
+- {direction: north, name: agent0, class: agent, y: '2', x: '6'}
+
+#ES#
+north
+1.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '4', x: '6'}
+- {direction: north, name: agent0, class: agent, y: '3', x: '6'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '4', x: '6'}
+- {direction: north, name: agent0, class: agent, y: '3', x: '6'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '8', top: '3'}
+- {color: green, name: room1, bottom: '3', class: room, left: '0', right: '4', top: '6'}
+- {color: blue, name: room2, bottom: '3', class: room, left: '4', right: '8', top: '6'}
+- {color: magenta, name: room3, bottom: '6', class: room, left: '0', right: '8', top: '10'}
+- {name: door0, bottom: '3', class: door, left: '2', right: '2', top: '3'}
+- {name: door1, bottom: '3', class: door, left: '6', right: '6', top: '3'}
+- {name: door2, bottom: '6', class: door, left: '2', right: '2', top: '6'}
+- {name: door3, bottom: '6', class: door, left: '6', right: '6', top: '6'}
+- {color: blue, name: block0, class: block, shape: chair, y: '4', x: '6'}
+- {direction: north, name: agent0, class: agent, y: '3', x: '6'}
+
+#ES#

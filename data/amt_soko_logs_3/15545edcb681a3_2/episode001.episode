@@ -1,0 +1,97 @@
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: south, name: agent0, class: agent, y: '4', x: '2'}
+
+#ES#
+east
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '3'}
+
+#ES#
+east
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '4'}
+
+#ES#
+east
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#
+noop
+-1.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#
+noop
+0.0
+#EL#
+- {color: red, name: room0, bottom: '0', class: room, left: '0', right: '4', top: '8'}
+- {color: blue, name: room1, bottom: '0', class: room, left: '4', right: '7', top: '8'}
+- {color: yellow, name: room2, bottom: '0', class: room, left: '7', right: '10', top: '8'}
+- {name: door0, bottom: '4', class: door, left: '4', right: '4', top: '4'}
+- {name: door1, bottom: '4', class: door, left: '7', right: '7', top: '4'}
+- {direction: east, name: agent0, class: agent, y: '4', x: '5'}
+
+#ES#

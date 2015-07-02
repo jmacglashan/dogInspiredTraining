@@ -1,0 +1,65 @@
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room0)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room0)
+##
+0.09999999999999998 agentInRoom(agent0, room1)
+0.8999999999999998 agentInRoom(agent0, room0)
+##
+0.012195121951219513 agentInRoom(agent0, room1)
+0.9878048780487805 agentInRoom(agent0, room0)
+##
+0.0013698630136986301 agentInRoom(agent0, room1)
+0.9986301369863014 agentInRoom(agent0, room0)
+##
+0.012195121951219511 agentInRoom(agent0, room1)
+0.9878048780487805 agentInRoom(agent0, room0)
+##
+0.1 agentInRoom(agent0, room1)
+0.9000000000000001 agentInRoom(agent0, room0)
+##
+0.4999999999999999 agentInRoom(agent0, room1)
+0.49999999999999994 agentInRoom(agent0, room0)
+##
+0.9 agentInRoom(agent0, room1)
+0.10000000000000002 agentInRoom(agent0, room0)
+##
+0.49999999999999994 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room0)
+##
+0.9 agentInRoom(agent0, room1)
+0.1 agentInRoom(agent0, room0)
+##
+0.5000000000000001 agentInRoom(agent0, room1)
+0.5000000000000001 agentInRoom(agent0, room0)
+##
+0.5066597766435479 agentInRoom(agent0, room1)
+0.4933402233564524 agentInRoom(agent0, room0)
+##
+0.5139334396700223 agentInRoom(agent0, room1)
+0.48606656032997764 agentInRoom(agent0, room0)
+##
+0.9032798930068285 agentInRoom(agent0, room1)
+0.09672010699317163 agentInRoom(agent0, room0)
+##
+0.9880810420320878 agentInRoom(agent0, room1)
+0.011918957967912074 agentInRoom(agent0, room0)
+##
+0.9986487788625468 agentInRoom(agent0, room1)
+0.0013512211374532097 agentInRoom(agent0, room0)
+##
+0.9998487517300069 agentInRoom(agent0, room1)
+1.512482699932473E-4 agentInRoom(agent0, room0)
+##
+0.9999831265172815 agentInRoom(agent0, room1)
+1.6873482718619054E-5 agentInRoom(agent0, room0)
+##
+0.9999831629818866 agentInRoom(agent0, room1)
+1.6837018113509E-5 agentInRoom(agent0, room0)
+##
+0.9999832038562853 agentInRoom(agent0, room1)
+1.6796143714892495E-5 agentInRoom(agent0, room0)
+##
+0.9999832495858841 agentInRoom(agent0, room1)
+1.6750414115697633E-5 agentInRoom(agent0, room0)

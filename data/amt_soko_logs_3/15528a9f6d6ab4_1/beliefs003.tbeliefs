@@ -1,0 +1,13 @@
+0.19998299585935153 blockInRoom(block0, room1)
+0.10743542285726787 agentInRoom(agent0, room3)
+0.18162807963982794 blockInRoom(block0, room3)
+0.13722357506568122 agentInRoom(agent0, room2)
+0.14347474195794815 agentInRoom(agent0, room1)
+0.2302551846199232 blockInRoom(block0, room2)
+##
+0.20012270380779598 blockInRoom(block0, room1)
+0.10751047715102496 agentInRoom(agent0, room3)
+0.1817549648596305 blockInRoom(block0, room3)
+0.13731943933688223 agentInRoom(agent0, room2)
+0.1435749732889491 agentInRoom(agent0, room1)
+0.22971744155571727 blockInRoom(block0, room2)

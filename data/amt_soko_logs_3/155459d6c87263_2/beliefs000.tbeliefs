@@ -1,0 +1,65 @@
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.49999999999999994 agentInRoom(agent0, room1)
+0.49999999999999994 agentInRoom(agent0, room2)
+##
+0.49999999999999994 agentInRoom(agent0, room1)
+0.49999999999999994 agentInRoom(agent0, room2)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.4964629886059312 agentInRoom(agent0, room1)
+0.5035370113940689 agentInRoom(agent0, room2)
+##
+0.900224543443422 agentInRoom(agent0, room1)
+0.09977545655657799 agentInRoom(agent0, room2)
+##
+0.5039976980188147 agentInRoom(agent0, room1)
+0.4960023019811852 agentInRoom(agent0, room2)
+##
+0.5082124934693133 agentInRoom(agent0, room1)
+0.4917875065306866 agentInRoom(agent0, room2)
+##
+0.9003670323509438 agentInRoom(agent0, room1)
+0.09963296764905614 agentInRoom(agent0, room2)
+##
+0.9005669210671543 agentInRoom(agent0, room1)
+0.09943307893284575 agentInRoom(agent0, room2)
+##
+0.900777032276368 agentInRoom(agent0, room1)
+0.09922296772363205 agentInRoom(agent0, room2)
+##
+0.9009966265316236 agentInRoom(agent0, room1)
+0.09900337346837644 agentInRoom(agent0, room2)
+##
+0.9012247903963133 agentInRoom(agent0, room1)
+0.09877520960368652 agentInRoom(agent0, room2)
+##
+0.9014604455600657 agentInRoom(agent0, room1)
+0.09853955443993441 agentInRoom(agent0, room2)
+##
+0.9017023645637783 agentInRoom(agent0, room1)
+0.09829763543622178 agentInRoom(agent0, room2)
+##
+0.9019491928880996 agentInRoom(agent0, room1)
+0.09805080711190044 agentInRoom(agent0, room2)
+##
+0.5351374628911096 agentInRoom(agent0, room1)
+0.4648625371088903 agentInRoom(agent0, room2)
+##
+0.5398651963113417 agentInRoom(agent0, room1)
+0.46013480368865833 agentInRoom(agent0, room2)
+##
+0.9017849081559666 agentInRoom(agent0, room1)
+0.0982150918440334 agentInRoom(agent0, room2)
+##
+0.9020111785325968 agentInRoom(agent0, room1)
+0.09798882146740313 agentInRoom(agent0, room2)
+##
+0.9864950237398779 agentInRoom(agent0, room1)
+0.013504976260121962 agentInRoom(agent0, room2)
+##
+0.9015476985398289 agentInRoom(agent0, room1)
+0.09845230146017116 agentInRoom(agent0, room2)

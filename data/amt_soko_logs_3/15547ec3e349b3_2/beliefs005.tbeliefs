@@ -1,0 +1,29 @@
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.5000000000000001 agentInRoom(agent0, room1)
+0.5000000000000001 agentInRoom(agent0, room2)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.10000000000000002 agentInRoom(agent0, room1)
+0.9 agentInRoom(agent0, room2)
+##
+0.09155398169299106 agentInRoom(agent0, room1)
+0.9084460183070089 agentInRoom(agent0, room2)
+##
+0.08374917377148575 agentInRoom(agent0, room1)
+0.9162508262285143 agentInRoom(agent0, room2)
+##
+0.076550221738251 agentInRoom(agent0, room1)
+0.923449778261749 agentInRoom(agent0, room2)
+##
+0.009169584446871657 agentInRoom(agent0, room1)
+0.9908304155531285 agentInRoom(agent0, room2)
+##
+0.008335597084509306 agentInRoom(agent0, room1)
+0.9916644029154906 agentInRoom(agent0, room2)

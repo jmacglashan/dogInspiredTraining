@@ -1,0 +1,65 @@
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.5 agentInRoom(agent0, room1)
+0.5 agentInRoom(agent0, room2)
+##
+0.5000000000000001 agentInRoom(agent0, room1)
+0.5000000000000001 agentInRoom(agent0, room2)
+##
+0.5031644820845556 agentInRoom(agent0, room1)
+0.4968355179154446 agentInRoom(agent0, room2)
+##
+0.5063535821275451 agentInRoom(agent0, room1)
+0.4936464178724549 agentInRoom(agent0, room2)
+##
+0.5095501722371127 agentInRoom(agent0, room1)
+0.49044982776288704 agentInRoom(agent0, room2)
+##
+0.5127370638197524 agentInRoom(agent0, room1)
+0.4872629361802476 agentInRoom(agent0, room2)
+##
+0.5158973651267962 agentInRoom(agent0, room1)
+0.4841026348732038 agentInRoom(agent0, room2)
+##
+0.5190148246125916 agentInRoom(agent0, room1)
+0.4809851753874083 agentInRoom(agent0, room2)
+##
+0.5220741455144012 agentInRoom(agent0, room1)
+0.4779258544855987 agentInRoom(agent0, room2)
+##
+0.5250612592127342 agentInRoom(agent0, room1)
+0.47493874078726583 agentInRoom(agent0, room2)
+##
+0.5279635478832839 agentInRoom(agent0, room1)
+0.4720364521167162 agentInRoom(agent0, room2)
+##
+0.5307700103941317 agentInRoom(agent0, room1)
+0.46922998960586815 agentInRoom(agent0, room2)
+##
+0.5334713689920816 agentInRoom(agent0, room1)
+0.46652863100791847 agentInRoom(agent0, room2)
+##
+0.5360601177351925 agentInRoom(agent0, room1)
+0.46393988226480753 agentInRoom(agent0, room2)
+##
+0.5385305165959378 agentInRoom(agent0, room1)
+0.4614694834040624 agentInRoom(agent0, room2)
+##
+0.540878537493149 agentInRoom(agent0, room1)
+0.459121462506851 agentInRoom(agent0, room2)
+##
+0.5431017701142046 agentInRoom(agent0, room1)
+0.4568982298857954 agentInRoom(agent0, room2)
+##
+0.545199296251629 agentInRoom(agent0, room1)
+0.45480070374837095 agentInRoom(agent0, room2)
+##
+0.5471715415618985 agentInRoom(agent0, room1)
+0.45282845843810143 agentInRoom(agent0, room2)
+##
+0.5490201132706499 agentInRoom(agent0, room1)
+0.45097988672935 agentInRoom(agent0, room2)
