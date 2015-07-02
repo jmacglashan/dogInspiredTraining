@@ -35,6 +35,7 @@ public class DiscreteBayesianIRL {
 		for(TaskDescription td : tasks){
 			this.taskDistribution.add(new TaskPolicyProbTuple(td, uni));
 		}
+		this.policyGenerator = policyGenerator;
 		this.hashingFactory = hashingFactory;
 
 	}
@@ -77,7 +78,7 @@ public class DiscreteBayesianIRL {
 		List<TaskPolicyProbTuple> posterior = new ArrayList<>(this.taskDistribution.size());
 		for(int i = 0; i < this.taskDistribution.size(); i++) {
 			TaskPolicyProbTuple tp = this.taskDistribution.get(i);
-			posterior.add(new TaskPolicyProbTuple(tp.getTask(), tp.getPolicy(), tp.getProb()));
+			posterior.add(new TaskPolicyProbTuple(tp.getTask(), tp.getPolicy(), proportionalPosterior[i]/normalization));
 		}
 
 		return posterior;

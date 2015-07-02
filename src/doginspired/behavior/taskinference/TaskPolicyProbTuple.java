@@ -47,4 +47,9 @@ public class TaskPolicyProbTuple {
 	public void setPolicy(Policy policy) {
 		this.policy = policy;
 	}
+
+	@Override
+	public String toString() {
+		return this.getProb() + ": " + this.task.toString();
+	}
 }
